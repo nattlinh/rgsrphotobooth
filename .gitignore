@@ -1,2 +1,5 @@
 venv
 __pycache__
+/config.py
+/app/forms.py
+/app/Photo.png
